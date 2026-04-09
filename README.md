@@ -1,22 +1,63 @@
-<h1 align="center">Hi 👋, I'm Enric</h1>
-<h3 align="center">Java Developer | Spring Boot | Backend Enthusiast</h3>
+# Hi, I'm Enric Sánchez 👋 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kikee-sanchez17&label=Profile%20views&color=0e75b6&style=flat" alt="kikee-sanchez17" /> </p>
+### ☕ Java Backend Developer | DAM Graduate | Full Stack Explorer (Angular)
+> **Building complex business logic with architectural integrity and system-wide vision.**
 
-- 🔭 I’m currently working on [Timely ⏳](https://github.com/kikee-sanchez17/Timely-backend)
+I am a Software Developer specialized in Multi-platform Applications (DAM). I don't just build endpoints; I design systems focused on **behavior, consistency, and solving real-world business challenges.** My background allows me to bridge the gap between clean code and system reliability.
 
-- 👨‍💻 All of my projects are available at [https://esanchez.dev](https://esanchez.dev)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/enricsanchezmontoya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enricsanchezmontoya" height="30" width="40" /></a>
+### 🎓 Education & Foundations
+- **Higher Degree (CFGS) in Multi-platform Applications Development (DAM).**
+- **System Proficiency:** Strong foundation in concurrency, multi-threading, and resource management.
+- **Full-Lifecycle Vision:** Trained to develop, deploy, and maintain solutions across Web, Mobile, and Desktop environments.
+
+---
+
+### 🚀 About Me
+- 🔭 **Current Focus:** Crafting robust Backends with **Spring Boot** and building modern Frontends with **Angular**.
+- 🧠 **Logic-First Mindset:** I thrive on complex challenges like time management systems, availability rules, and edge-case handling.
+- 🏗️ **Architecture & Quality:** Advocate for Clean Architecture and reliability through **JUnit & Mockito**.
+- 📱 **Mobile Roots:** Experienced in **Kotlin & Android** with a backend-oriented approach.
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | Java, Kotlin, TypeScript, SQL |
+| **Backend** | Spring Boot, JPA / Hibernate, JUnit, Mockito |
+| **Frontend** | Angular, CSS3, HTML5 |
+| **Database** | PostgreSQL, MySQL (Relational Design Enthusiast) |
+| **DevOps & Systems** | Docker (Containerization), Linux, Maven, Git |
+
+---
+
+### 🌟 Featured Project: Timely
+**Timely** is a time management and availability engine designed to handle complex business rules.
+
+* **Architecture:** Clean Layered Architecture for high maintainability.
+* **The Challenge:** Managing availability logic and edge cases across a relational schema of **20+ tables**.
+* **Testing & Reliability:** 100% focused on business logic validation using **JUnit and Mockito** to mock data layers.
+* **Infrastructure:** Leveraging **Docker** to containerize the environment, ensuring seamless deployment and environment parity.
+
+👉 [View Repository](https://github.com/kikee-sanchez17/timely-backend) | [Documentation](https://www.notion.so/Timely-33686bda26a780d6aa46ed9861a6278c) | [View Portfolio](https://esanchez.dev/) 
+
+---
+
+### 📊 GitHub Stats
+![Enric's GitHub stats](https://github-readme-stats.vercel.app/api?username=kikee-sanchez17&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kikee-sanchez17&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect!
+- **LinkedIn:** [enricsanchezmontoya](https://www.linkedin.com/in/enricsanchezmontoya/)
+- **Portfolio:** [esanchez.dev](https://esanchez.dev/)
+- **Email:** [enricmontoya@gmail.com](mailto:enricmontoya@gmail.com)
+
+---
+<p align="center">
+  <i>"I write code for humans, optimized for systems."</i>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-(https://github-readme-stats.vercel.app/api/top-langs/?username=kikee-sanchez17&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kikee-sanchez17&show_icons=true&locale=en&layout=compact" alt="kikee-sanchez17" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kikee-sanchez17&show_icons=true&locale=en" alt="kikee-sanchez17" /></p>
