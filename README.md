@@ -2,7 +2,7 @@
 
 ### ☕ Java Backend Developer | DAM Graduate | Full Stack Explorer (Angular)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kikee-sanchez17&label=Profile%20views&color=0e75b6&style=flat" alt="kikee-sanchez17" /> </p>
-> **Building complex business logic with architectural integrity and system-wide vision.**
+ **Building complex business logic with architectural integrity and system-wide vision.**
 
 I am a Software Developer specialized in Multi-platform Applications (DAM). I don't just build endpoints; I design systems focused on **behavior, consistency, and solving real-world business challenges.** My background allows me to bridge the gap between clean code and system reliability.
 
