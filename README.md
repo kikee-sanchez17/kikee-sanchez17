@@ -1,6 +1,7 @@
 # Hi, I'm Enric Sánchez 👋 
 
 ### ☕ Java Backend Developer | DAM Graduate | Full Stack Explorer (Angular)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kikee-sanchez17&label=Profile%20views&color=0e75b6&style=flat" alt="kikee-sanchez17" /> </p>
 > **Building complex business logic with architectural integrity and system-wide vision.**
 
 I am a Software Developer specialized in Multi-platform Applications (DAM). I don't just build endpoints; I design systems focused on **behavior, consistency, and solving real-world business challenges.** My background allows me to bridge the gap between clean code and system reliability.
@@ -26,7 +27,7 @@ I am a Software Developer specialized in Multi-platform Applications (DAM). I do
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | Java, Kotlin, TypeScript, SQL |
+| **Languages** |  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>, Kotlin, TypeScript, SQL |
 | **Backend** | Spring Boot, JPA / Hibernate, JUnit, Mockito |
 | **Frontend** | Angular, CSS3, HTML5 |
 | **Database** | PostgreSQL, MySQL (Relational Design Enthusiast) |
