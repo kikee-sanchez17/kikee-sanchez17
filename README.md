@@ -25,13 +25,13 @@ I am a Software Developer specialized in Multi-platform Applications (DAM). I do
 
 ### 🛠️ Tech Stack
 
-| Category | Tools & Languages |
+| Category | Stack & Tools |
 | :--- | :--- |
-| **Languages** |  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>, Kotlin, TypeScript, SQL |
-| **Backend** | Spring Boot, JPA / Hibernate, JUnit, Mockito |
-| **Frontend** | Angular, CSS3, HTML5 |
-| **Database** | PostgreSQL, MySQL (Relational Design Enthusiast) |
-| **DevOps & Systems** | Docker (Containerization), Linux, Maven, Git |
+| **Backend & Core** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25" height="25"/> **Java** (Spring Boot, JPA, Hibernate, JUnit, Mockito) |
+| **Frontend** | <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="25" height="25"/> **Angular** (TypeScript, HTML5, CSS3) |
+| **Mobile** | <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="25" height="25"/> **Kotlin** & Android Development |
+| **Databases** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="25" height="25"/> **PostgreSQL** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="25" height="25"/> **MySQL** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="25" height="25"/> **MongoDB** |
+| **Infrastructure** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="25" height="25"/> **Docker** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25" height="25"/> **Linux** | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25" height="25"/> **Git** |
 
 ---
 
