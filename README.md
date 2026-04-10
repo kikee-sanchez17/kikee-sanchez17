@@ -1,65 +1,113 @@
-# Hi, I'm Enric Sánchez 👋  
+<h2 align="left">Hi 👋 I'm Enric Sánchez</h2>
 
-### Backend Developer focused on Java, Spring Boot and scheduling systems  
+###
 
-**I build backend systems that handle real business rules like availability, time constraints and booking logic.**
+<div align="center">
+  <a href="https://www.linkedin.com/in/enricsanchezmontoya/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://esanchez.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/MY-PORTFOLIO-orange?style=for-the-badge" height="25" alt="portfolio logo"  />
+  </a>
+  <a href="https://leetcode.com/u/kikee-sanchez17/" target="_blank">
+    <img src="https://img.shields.io/badge/LEETOCODE-yellow?style=for-the-badge" height="25" alt="portfolio logo"  />
+  </a>
+  <a href="https://www.twitch.tv/kikeedev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  </a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=kikee-sanchez17.kikee-sanchez17&left_color=lightgrey&right_color=purple&left_text=STALKERS" height="70" width="110" />
+</div>
 
-I’m a Software Developer with a background in Multi-platform Application Development (DAM). I focus on backend development, especially on problems where the logic is not trivial: time management, overlapping constraints and consistency between different parts of the system.
+###
+
+<h4 align="left">A developer who enjoys building reliable applications ⚙️ and working through real-world business logic, making sure everything behaves as expected across the whole system. I work mainly with Java ☕, Kotlin 🟣, and SQL 🗄️, and I’m also exploring frontend technologies like Angular 🌐 to better understand the full stack.</h4>
+
+
+
+<h3 align="left">🚀 About Me</h3>
+
+###
+
+- 🔭 Currently building  **Timely**, a booking system with scheduling and availability logic.
+- 👨🏻‍💻 Focused on backend problems involving time, constraints and edge cases.
+- 🎵 Ask me about **music** and **films**.
+- ✍️ Always studying about software related process and problems.
+- 🌎 You can find me sharing my development on [**Twitch**](https://www.twitch.tv/kikeedev).
+- 📫 Feel free to contact me on [**LinkedIn**](https://www.linkedin.com/in/enricsanchezmontoya/).
 
 ---
 
-### 🎓 Education  
-- Higher Degree (CFGS) in Multi-platform Applications Development (DAM)  
+<h3 align="left">🛠️ Tech Stack</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+</div>
 
 ---
 
-### 🚀 About Me  
-- 🔭 Currently building **Timely**, a booking system with scheduling and availability logic  
-- 🧠 Focused on backend problems involving **time, constraints and edge cases**  
-- 🏗️ I structure projects with clear layers (controller, service, repository)  
-- 🧪 I test business logic using **JUnit and Mockito**  
-- 📱 Background in **Kotlin and Android development**  
+<h3 align="left">🌟Featured Project: Timely⏳</h3>
 
----
+###
 
-### 🛠️ Tech Stack  
+<p align="left">A booking system currently under development that ensures availability by accounting for all edge cases, so that both users and business owners can operate based on consistent information and make reliable decisions regarding time management. <br><br>Timely covers key edge cases such as:</p> 
 
-| Category &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tools & Languages &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-| :--- | :--- |
-| **Languages** | <a href="https://www.java.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> **Java** &nbsp;&nbsp; <a href="https://kotlinlang.org"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> **Kotlin** &nbsp;&nbsp; <a href="https://www.typescriptlang.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> **TypeScript** |
-| **Backend** | <a href="https://spring.io/"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> **Spring Boot** &nbsp;&nbsp; <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/> **Hibernate** &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="junit" width="40" height="40"/> **JUnit 5** |
-| **Frontend** | <a href="https://angular.io"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> **Angular** &nbsp;&nbsp; <a href="https://www.w3.org/html/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> **HTML5** &nbsp;&nbsp; <a href="https://www.w3schools.com/css/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> **CSS3** |
-| **Database** | <a href="https://www.postgresql.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> **PostgreSQL** &nbsp;&nbsp; <a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> **MySQL** &nbsp;&nbsp; <a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> **MongoDB** |
-| **Tools** | <a href="https://www.docker.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> **Docker** &nbsp;&nbsp; <a href="https://git-scm.com/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> **Git** &nbsp;&nbsp; <a href="https://www.linux.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> **Linux** |
+- Overlapping bookings
+- Gaps smaller than the service duration
+- Employee-specific schedules overriding business hours
+- Business or employee exceptions (closed or special openings)
+- Bookings at schedule boundaries (start/end of the day)
 
----
 
-### 🌟 Featured Project: Timely  
-
-**Timely** is a backend system for managing bookings and availability.
-
-Main focus:
-- Handling **availability based on schedules and exceptions**  
-- Preventing **overlapping bookings**  
-- Generating **valid time slots** based on business rules  
-- Managing differences between **business schedule and employee schedule**  
-
-Technical aspects:
-- Layered architecture (controller → service → repository)  
-- PostgreSQL with time-based data (`TIMESTAMPTZ`)  
-- Business logic tested with JUnit and Mockito  
-- Dockerized environment  
-  
 👉 [View Portfolio](https://esanchez.dev/) | [View Documentation](https://www.notion.so/Timely-33686bda26a780d6aa46ed9861a6278c) | [VIew Repository](https://github.com/kikee-sanchez17/timely-backend)
 
 ---
 
-### Github Stats
+<h3 align="center">Github Stats</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kikee-sanchez17&langs_count=8)
+###
+<div align="center">
+   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark&fontFamily=Montserrat&preferLogin=true"> 
+     <img  alt="kikee-sanchez17's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/kikee-sanchez17?cardType=github&theme=github-dark&fontFamily=Montserrat&preferLogin=true" /> 
+   </a>
+
+</div>
 
 ---
 
-### 📫 Contact  
-- LinkedIn: https://www.linkedin.com/in/enricsanchezmontoya/  
-- Email: enricmontoya@gmail.com  
+<div align="center">
+  <a href="https://open.spotify.com/user/mrenric488">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mrenric488&count=5" alt="Spotify recently played"  />
+  </a>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDF2Z2h1bm8wODVrMmNrMDkxeDM1c3lhanhhN29tNms1Ymx6bWR4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/blSTtZehjAZ8I/giphy.gif" alt="GIF" style="width: 400px; height: 330px; margin-left:20;" >
+</div>
+
+###
+
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+
+</div>
+
+###
